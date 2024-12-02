@@ -23,8 +23,9 @@
 .escola-imagem{
     width: 25%;
 }
-.escola{ background-image: linear-gradient( #8a2be2 white);
-color: rgb(53, 113, 202);
+.escola{ 
+background-image: #7577bd;
+color: rgb(12, 13, 14);
 display: flex;
 justify-content: center;
 align-items: center;
