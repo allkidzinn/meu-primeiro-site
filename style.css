@@ -38,11 +38,11 @@ padding: 24px 0;
     padding: 24px 0;
 }
 .estudante-imagem {
+    background-color: #8a2be2;
     width: 120px;
     }
     
     .estudante-icone {
-     background-color: #8a2be2;
     width: 24px;
     padding: 4px 8px;
     }
